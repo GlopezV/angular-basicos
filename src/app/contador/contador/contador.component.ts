@@ -26,6 +26,7 @@ export class ContadorComponent{
   
   acumularBase(valor:number){
     this.numero+=valor;
+    this.numero+=valor;
   }
   
 
