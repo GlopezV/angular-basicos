@@ -20,6 +20,9 @@ export class MainPageComponent {
   // se paso al servicio
   // agregarNuevoPersonaje(personaje:Personaje){
   //   console.log(personaje);
+
+  //   La lista this.listadoPersonajes es la que pasa desde este componente padre
+  //   hacia el hijo que seria el componente personajes.component.ts
   //   this.listadoPersonajes.push(personaje);
   //   }
 

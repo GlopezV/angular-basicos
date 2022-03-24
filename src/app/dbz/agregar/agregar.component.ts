@@ -1,3 +1,4 @@
+import { templateSourceUrl } from '@angular/compiler';
 import { Component, EventEmitter, Input, Output } from '@angular/core';
 import { Personaje } from '../interfaces/dbz.interface';
 import { DbzService } from '../services/dbz.service';

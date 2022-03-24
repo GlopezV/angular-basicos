@@ -8,6 +8,7 @@ import { DbzService } from '../services/dbz.service';
 })
 export class PersonajesComponent {
 
+  //Aqui se recibe desde el componente padre *main-page.component* la lista de personajes this.listadoPersonajes
   // @Input() personajes:Personaje[]=[];
 
   get personajes(){
