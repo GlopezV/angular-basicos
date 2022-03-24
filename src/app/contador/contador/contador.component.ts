@@ -28,6 +28,7 @@ export class ContadorComponent{
     this.numero+=valor;
     this.numero+=valor;
     this.numero+=valor;
+    //this.numero+=valor;
   }
   
 
